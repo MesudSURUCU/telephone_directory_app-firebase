@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "755876996800",
+    "firebase_url": "https://telephone-directory-app-34571-default-rtdb.firebaseio.com",
+    "project_id": "telephone-directory-app-34571",
+    "storage_bucket": "telephone-directory-app-34571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755876996800:android:da8a8716e690999bf92f25",
+        "android_client_info": {
+          "package_name": "com.example.telephone_directory_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBenwPHqIFKVgoHO4efVukO2lW-gWMk5SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
