@@ -5,7 +5,7 @@ import 'package:telephone_directory_app_firebase/cubit/home_page_cubit.dart';
 import 'package:telephone_directory_app_firebase/cubit/person_detail_cubit.dart';
 import 'package:telephone_directory_app_firebase/cubit/person_registration_cubit.dart';
 import 'package:telephone_directory_app_firebase/firebase_options.dart';
-import 'package:telephone_directory_app_firebase/presentation/views/home_page.dart';
+import 'package:telephone_directory_app_firebase/presentation/views/splash_screen_page.dart';
 
 Future<void> main() async {
 
@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const HomePage()
+        home: const SplashScreenPage(),
       ),
     );
   }
